@@ -1,5 +1,5 @@
 {
-  "name": "A browser action that only shows images from the page wiht ability to zoom on click",
+  "name": "A browser action that only shows images from the page with ability to zoom on click",
   "description": "Only images with zoom",
   "version": "2.0",
   "permissions": ["activeTab"],
